@@ -8,10 +8,15 @@ This project was developed as part of the requirements for a bachelor's degree w
 
 Airfoil                                      : NACA0015
 Chord Length                                 : 50.8 mm
+
 Blade Span                                   : 171 mm
+
 Blade distance offset from axis of rotation  : 3 inch (152.4 mm)
+
 Pitching axis point                          : 25% of chord from leading edge
+
 Control(actuation) point in airfoil          : 17.5 mm
+
 Length of control rods                       : 76.2 mm
 
 ## Power System Specifications
