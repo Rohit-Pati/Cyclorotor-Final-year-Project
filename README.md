@@ -7,6 +7,7 @@ This project was developed as part of the requirements for a bachelor's degree w
 ## Design Specifications
 
 Airfoil                                      : NACA0015
+
 Chord Length                                 : 50.8 mm
 
 Blade Span                                   : 171 mm
@@ -22,6 +23,9 @@ Length of control rods                       : 76.2 mm
 ## Power System Specifications
 
 Motor Specification  : 1400 KV
+
 Driver Pulley        : GT2 Timing Pulley 20 Teeth with 5 mm bore
+
 Driven Pulley        : GT2 Timing Pulley 60 Teeth
+
 Pulley Belt          : GT2 Timing Pulley 200mm
