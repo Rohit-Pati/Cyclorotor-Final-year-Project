@@ -2,7 +2,7 @@
 
 Cyclorotor, also known as cycloidal rotor or cyclogiro, is a type of propulsion system which converts shaft power into the acceleration of fluid using a rotating axis parallel to the blade span (alternatively, rotating axis perpendicular to the direction of fluid motion). It consists of several blades around the axis of rotation with spanwise axis parallel to the axis of rotation. These blades are cyclically pitched twice per revolution implementing the control mechanism of Voith Schneider propeller to produce thrust in any direction normal to the axis of rotation.
 
-This project was developed as part of the requirements for a bachelor's degree with the objective of experimentally observing the thrust pattern. A well-functioning four blades cyclorotor was manufactured using design parameters derived from various published articles however.
+This project was developed as part of the requirements for a bachelor's degree with the objective of experimentally observing the thrust pattern. A well-functioning four blades cyclorotor was manufactured using design parameters inferred and derived from various published articles.
 
 ## Design Specifications
 
