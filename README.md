@@ -34,10 +34,10 @@ Pulley Belt          : GT2 Timing Pulley 200mm
 
 Here are some pictures of final product after manufacture and assembly.
 
-![IMG1](/Pictures/IMG3)
+![IMG3](/Pictures/IMG3.jpg)
 
-![IMG1](/Pictures/IMG4)
+![IMG4](/Pictures/IMG4.jpg)
 
-![IMG1](/Pictures/IMG5)
+![IMG5](/Pictures/IMG5.jpg)
 
-![IMG1](/Pictures/IMG6)
+![IMG6](/Pictures/IMG6.jpg)
