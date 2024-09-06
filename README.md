@@ -29,3 +29,4 @@ Driver Pulley        : GT2 Timing Pulley 20 Teeth with 5 mm bore
 Driven Pulley        : GT2 Timing Pulley 60 Teeth
 
 Pulley Belt          : GT2 Timing Pulley 200mm
+![Assembly](/Pictures/Assembly Draft.jpg).
